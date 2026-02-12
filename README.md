@@ -1,230 +1,156 @@
-# Hi, I'm Sara Latrache 👋  
-### Full Stack Developer • Backend Engineer • Technical Instructor • Systems Builder
+# 👋 Hi, I'm **Sara Latrache**
+### Full Stack Developer | Backend Engineer | Technical Instructor | System Builder
+
+> Turning ideas into scalable systems.  
+> Writing clean code. Solving real problems.  
+> Building software that actually matters. 🚀
 
 <p align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7cd41ced-cfb1-4f37-9874-0d9639474776" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82b7ac87-6619-4098-8b43-4ff1c87cbae2" />
 
-</p>
-
-<p align="center">
-  <i>Building scalable systems, clean architectures, and impactful digital solutions.</i>
+  <img src="YOUR_PROFILE_GIF_URL_HERE" width="220"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 About Me
 
-I'm **Sara Latrache**, a 26-year-old **Full Stack Developer** with a strong focus on **backend engineering, system architecture, and data-driven platforms**.  
-I design and build **scalable, maintainable, production-ready systems** that solve real-world problems.
+I'm a passionate **Full Stack Developer** with a strong focus on **backend architecture, system design, and scalable platforms**.  
+I build robust applications that go beyond features — I design **systems**, **workflows**, and **digital infrastructures**.
 
-I don’t just write code — I build **products, platforms, and infrastructures**.
+I love:
+- Solving complex problems  
+- Designing clean architectures  
+- Building real-world platforms  
+- Optimizing performance  
+- Creating products that scale  
+- Turning chaos into structure 😌  
 
-I combine:
-- strong engineering foundations  
-- clean architecture principles  
-- performance-driven thinking  
-- and real-world production experience  
-
-to deliver **reliable, scalable, and future-proof systems**.
-
----
-
-## 🧠 What Defines My Work
-
-- 🔹 System architecture before code  
-- 🔹 Scalability before shortcuts  
-- 🔹 Clean structure over hacks  
-- 🔹 Maintainability over speed  
-- 🔹 Engineering mindset over trends  
-
-I believe good software is:
-> **Simple, structured, documented, scalable, and understandable by any developer who joins after you.**
+I combine **technical depth**, **engineering logic**, and **product thinking** to deliver high-quality software — not just code.
+<img width="638" height="454" alt="image" src="https://github.com/user-attachments/assets/0978bca5-c762-4a74-8068-db6229e2db06" />
 
 ---
 
-## 💼 Professional Journey
+## 🧠 What I Do
 
-### 🏢 Full Stack Developer — *Exis Engineering Solutions Srl*  
-**March 2025 – Present**
-
-- Traffic analytics dashboards for **traffic planning, simulation & optimization**
-- Data analytics pipelines for traffic flow analysis
-- Interactive maps, charts, and real-time visualizations
-- Advanced **geospatial & 3D visualization** (Deck.gl, Leaflet, .PLY models)
-- Backend services with **Python & Flask**
-- REST APIs for data processing and analytics
-- Deployment, environment configuration & production optimization
-- Engineering collaboration with traffic experts
-
----
-
-### 🏢 Full Stack Developer | Project Manager — *Cookie Jar Tech*  
-**Sept 2022 – Oct 2024**
-
-- Large-scale multi-platform e-commerce systems
-- Legacy system refactoring & modernization
-- Clean code, design patterns, architecture improvement
-- HR management platforms (leaves, absence, workflows)
-- Cross-team coordination with CTO & product owners
-- Performance optimization & bug reduction  
-- Known internally as **“Sara the Bug Slayer” 🗡️**
-
----
-
-### 🎓 JavaScript Instructor (Part-time) — *SastecSkills*  
-**June 2022 – Oct 2022**
-
-- JavaScript & MERN bootcamps
-- Student project supervision
-- Technical workshops
-- Professional workflow mentoring
-
----
-
-### 🏢 Backend Developer (Golang) — *SASTEC Group*  
-**Oct 2021 – Sept 2022**
-
-- REST & GraphQL APIs with Go
-- SaaS integrations
-- Video processing systems
-- Live webinar platforms
-- SCRUM-based development environments
+- 💻 Full Stack Development  
+- ⚙️ Backend Engineering  
+- 🧩 System Architecture  
+- 📊 Data-driven Platforms  
+- 🧪 API Design  
+- 🧱 Scalable System Design  
+- 🎓 Technical Instruction  
+- 🛠️ Product Engineering  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-`JavaScript` `Python` `Golang`
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
 
-### Frontend
-`React.js` `WordPress`
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-### Backend
-`Node.js` `Express.js` `Flask`
+### ⚙️ Backend
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
 
-### Databases
-`MongoDB` `MySQL`
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-### DevOps / Cloud
-`Docker` `AWS` `Ubuntu`
-
-### Architecture & Tools
-`REST APIs` `Microservices` `System Design`  
-`Git` `CI/CD` `Clean Architecture` `Scalable Systems`
-
----
-
-## 🧩 Core Domains I Work On
-
-- 🏫 School Management Systems  
-- 🚦 Traffic Analytics & Smart Cities  
-- 🏢 Enterprise Platforms  
-- 📦 Inventory & Products Management  
-- 🎥 Video Streaming Platforms  
-- 📊 Data Visualization Systems  
-- 📱 Web & Mobile Platforms  
-- 🧠 Data-driven applications  
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
 
 ---
 
-## 🚀 Flagship Projects
+## 🧩 What I Build
+<img width="480" height="281" alt="image" src="https://github.com/user-attachments/assets/e0f5e6c3-f870-43c8-92af-4717e6ac9219" />
 
-### 🏫 School Management Platform
-A full **web + mobile ecosystem**:
-- Academic management
-- Students / Teachers / Parents
-- Timetables
-- Attendance
-- Grades & exams
-- Payments & fees
-- Role-based access
-- Parent mobile app
-- Real-time academic tracking
+- 🚦 Smart data dashboards  
+- 🏫 Management platforms  
+- 📊 Analytics systems  
+- 📱 Web & mobile apps  
+- 🧠 Intelligent workflows  
+- 🔁 Automation systems  
+- 📦 Business platforms  
+- 🧱 Scalable infrastructures  
 
 ---
 
-### 📦 Products & Inventory System
-- Multi-warehouse management  
-- Stock tracking  
-- Automated orders  
-- PDF invoices  
-- Reports  
-- Multi-platform sync  
-- WooCommerce / PrestaShop / Shopify integration  
-- XML / JSON export systems  
+## 💡 Philosophy
+
+> **"Code is not just code — it's structure, logic, vision, and responsibility."**
+
+I believe in:
+- Clean code  
+- Strong architecture  
+- Long-term thinking  
+- Maintainable systems  
+- Scalable design  
+- Real engineering (not just frameworks)
 
 ---
 
-### 🚦 Traffic Analytics Dashboard
-- Traffic flow analysis  
-- Real-time monitoring  
-- Interactive maps  
-- 3D geospatial visualization  
-- Simulation systems  
-- Decision-support dashboards  
-- Smart city planning tools  
+## 🐞 Fun Facts
 
----
-
-### 🎥 Enterprise Video Platform
-- Live broadcasting  
-- Pay-per-view  
-- APIs  
-- Analytics  
-- Corporate streaming  
-- HR training platforms  
-- TV portals  
-- Video processing pipelines  
-
----
-
-## 🧠 My Engineering Philosophy
-
-> “Code is not the product.  
-> Systems are the product.  
-> Architecture is the product.  
-> Stability is the product.”
-
-I aim to build software that:
-- survives scale
-- survives team growth
-- survives time
-- survives complexity
-
----
-
-## 🎯 Vision
-
-Long-term goal:
-**Building large-scale intelligent systems** in:
-- smart cities  
-- digital infrastructure  
-- education technology  
-- analytics platforms  
-- AI-integrated systems  
-- automation ecosystems  
-
----
-
-## 🤝 Let’s Connect
-
-If you're interested in:
-- collaboration  
-- engineering projects  
-- startups  
-- platforms  
-- scalable systems  
-- digital products  
-- architecture design  
-
-Let’s build something meaningful together 🚀
-
----
+- 🗡 Known for hunting bugs  
+- 🧠 Obsessed with clean architecture  
+- ⚡ Love complex systems  
+- 🎯 Precision mindset  
+- 🧩 Problem-solving addict  
+- 🛠 Builder mentality  
+- 🎮 Debugger by day, debugger by night  
 
 <p align="center">
-  <b>Welcome to my world of engineering.</b><br/>
-  <i>Systems over scripts. Architecture over hacks. Impact over noise.</i>
+  <!-- Bug bounty / bug hunter GIF -->
+  <img src="YOUR_BUG_GIF_URL_HERE" width="300"/>
 </p>
 
-<!-- GIF FOOTER HERE -->
+---
+
+## 🌍 Currently Focused On
+
+- Advanced backend systems  
+- Data platforms  
+- System scalability  
+- Architecture patterns  
+- Performance optimization  
+- Smart dashboards  
+- AI-powered systems  
+- Infrastructure design  
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Latrachesara">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Personal Motto
+
+> **Build systems. Not just apps.**  
+> **Think architecture. Not just features.**  
+> **Engineer solutions. Not just code.**
+<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/a3d30d67-1e17-485d-9cb9-a2efaa7ebe29" />
+
+---
+
+✨ *If you like what you see, feel free to explore my repositories and drop a ⭐ — it means more than you think.*
+<img width="480" height="267" alt="image" src="https://github.com/user-attachments/assets/86c471f0-a58f-4c89-9e43-ecf15024ef09" />
+
